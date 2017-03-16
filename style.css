@@ -17,3 +17,13 @@ h4{
 img{
   border-radius: 50%;
 }
+footer{
+  text-align: center;
+  font-weight: bold;
+  font-size: 22px;
+  position: relative;
+  color: black;
+  text-decoration-style: wavy;
+
+
+}
